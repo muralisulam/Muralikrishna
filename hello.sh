@@ -1,1 +1,2 @@
-This is hello sh new file
+#!/bin/bash
+echo "tomorrow holiday"
